@@ -21,9 +21,9 @@
 
 I'm a postgraduate Business Analytics student at the **University of Limerick** (graduating August 2026), with a background in data-driven digital marketing and a growing focus on machine learning and business intelligence.
 
-I love working with messy real-world data — cleaning it, finding patterns, building models, and turning the results into clear, actionable insights.
+I love working with messy real-world data cleaning it, finding patterns, building models, and turning the results into clear, actionable insights.
 
-Previously I spent 2+ years in B2B digital marketing — running multi-channel campaigns, building ABM strategies, and using analytics tools to measure what actually works.
+Previously I spent 2+ years in B2B digital marketing running multi-channel campaigns, building ABM strategies, and using analytics tools to measure what actually works.
 
 - 🔭 Currently working on: MSc coursework in ML, Big Data & Econometrics
 - 🌱 Learning: Python · R · SQL · scikit-learn
@@ -86,11 +86,9 @@ An end-to-end machine learning project analysing Irish residential property sale
 
 ## 📫 Get in touch
 
-I'm actively looking for **Business Analyst**, **Data Analyst**, or **Marketing Analyst** roles across Europe — internships or graduate positions welcome!
+I'm actively looking for **Business Analyst**,and **Marketing Analyst** roles across Europe — internships or graduate positions welcome!
 
 📧 [tanmaisreemynampati@gmail.com](mailto:tanmaisreemynampati@gmail.com)
 💼 [LinkedIn](https://linkedin.com/in/tanmaisree-mynampati)
 
 ---
-
-<p align="center"><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
